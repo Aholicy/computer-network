@@ -1,0 +1,181 @@
+Server is listing on port: 11121
+Receive Data from: 192.168.43.80:60930 total count: 1
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 1 times
+Receive Data from: 192.168.43.80:60930 total count: 2
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 2 times
+Receive Data from: 192.168.43.80:60930 total count: 3
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 3 times
+Receive Data from: 192.168.43.80:60930 total count: 4
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 4 times
+Receive Data from: 192.168.43.80:60930 total count: 5
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 5 times
+Receive Data from: 192.168.43.80:60930 total count: 6
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 6 times
+Receive Data from: 192.168.43.80:60930 total count: 7
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 7 times
+Receive Data from: 192.168.43.80:60930 total count: 8
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 8 times
+Receive Data from: 192.168.43.80:60930 total count: 9
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 9 times
+Receive Data from: 192.168.43.80:60930 total count: 10
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 10 times
+Receive Data from: 192.168.43.80:60930 total count: 11
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 11 times
+Receive Data from: 192.168.43.80:60930 total count: 12
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 12 times
+Receive Data from: 192.168.43.80:60930 total count: 13
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 13 times
+Receive Data from: 192.168.43.80:60930 total count: 14
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 14 times
+Receive Data from: 192.168.43.80:60930 total count: 15
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 15 times
+Receive Data from: 192.168.43.80:60930 total count: 16
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 16 times
+Receive Data from: 192.168.43.80:60930 total count: 17
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 17 times
+Receive Data from: 192.168.43.80:60930 total count: 18
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 18 times
+Receive Data from: 192.168.43.80:60930 total count: 19
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 19 times
+Receive Data from: 192.168.43.80:60930 total count: 20
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60930 for 20 times
+Receive Data from: 192.168.43.80:60931 total count: 1
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 1 times
+Receive Data from: 192.168.43.80:60931 total count: 2
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 2 times
+Receive Data from: 192.168.43.80:60931 total count: 3
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 3 times
+Receive Data from: 192.168.43.80:60931 total count: 4
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 4 times
+Receive Data from: 192.168.43.80:60931 total count: 5
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 5 times
+Receive Data from: 192.168.43.80:60931 total count: 6
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 6 times
+Receive Data from: 192.168.43.80:60931 total count: 7
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 7 times
+Receive Data from: 192.168.43.80:60931 total count: 8
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 8 times
+Receive Data from: 192.168.43.80:60931 total count: 9
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 9 times
+Receive Data from: 192.168.43.80:60931 total count: 10
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 10 times
+Receive Data from: 192.168.43.80:60931 total count: 11
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 11 times
+Receive Data from: 192.168.43.80:60931 total count: 12
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 12 times
+Receive Data from: 192.168.43.80:60931 total count: 13
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 13 times
+Receive Data from: 192.168.43.80:60931 total count: 14
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 14 times
+Receive Data from: 192.168.43.80:60931 total count: 15
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 15 times
+Receive Data from: 192.168.43.80:60931 total count: 16
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 16 times
+Receive Data from: 192.168.43.80:60931 total count: 17
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 17 times
+Receive Data from: 192.168.43.80:60931 total count: 18
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 18 times
+Receive Data from: 192.168.43.80:60931 total count: 19
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 19 times
+Receive Data from: 192.168.43.80:60931 total count: 20
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 20 times
+Receive Data from: 192.168.43.80:60931 total count: 21
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 21 times
+Receive Data from: 192.168.43.80:60931 total count: 22
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 22 times
+Receive Data from: 192.168.43.80:60931 total count: 23
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 23 times
+Receive Data from: 192.168.43.80:60931 total count: 24
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 24 times
+Receive Data from: 192.168.43.80:60931 total count: 25
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 25 times
+Receive Data from: 192.168.43.80:60931 total count: 26
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 26 times
+Receive Data from: 192.168.43.80:60931 total count: 27
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 27 times
+Receive Data from: 192.168.43.80:60931 total count: 28
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 28 times
+Receive Data from: 192.168.43.80:60931 total count: 29
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 29 times
+Receive Data from: 192.168.43.80:60931 total count: 30
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 30 times
+Receive Data from: 192.168.43.80:60931 total count: 31
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 31 times
+Receive Data from: 192.168.43.80:60931 total count: 32
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 32 times
+Receive Data from: 192.168.43.80:60931 total count: 33
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 33 times
+Receive Data from: 192.168.43.80:60931 total count: 34
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 34 times
+Receive Data from: 192.168.43.80:60931 total count: 35
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 35 times
+Receive Data from: 192.168.43.80:60931 total count: 36
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 36 times
+Receive Data from: 192.168.43.80:60931 total count: 37
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 37 times
+Receive Data from: 192.168.43.80:60931 total count: 38
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 38 times
+Receive Data from: 192.168.43.80:60931 total count: 39
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 39 times
+Receive Data from: 192.168.43.80:60931 total count: 40
+Data is: default UDP client test message
+Return Message: Message received from 192.168.43.80:60931 for 40 times

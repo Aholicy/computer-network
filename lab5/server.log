@@ -1,0 +1,33 @@
+Data File is Store in: Data
+Server is listing on port: 11121
+Connection with 172.26.96.1:12559 is established
+Connection with 172.26.96.1:12560 is established
+Connection with 172.26.96.1:12561 is established
+Connection with 172.26.96.1:12570 is established
+172.26.96.1:12559 client is uploading file: 1.txt
+file size: 17
+File 1.txt is uploaded by 172.26.96.1:12559
+172.26.96.1:12560 client is uploading file: 2.txt
+file size: 17
+File 2.txt is uploaded by 172.26.96.1:12560
+172.26.96.1:12570 client is uploading file: 3.txt
+file size: 17
+File 3.txt is uploaded by 172.26.96.1:12570
+172.26.96.1:12561 client is uploading file: 4.txt
+file size: 17
+File 4.txt is uploaded by 172.26.96.1:12561
+File ServerMsg.txt is downloaded by 172.26.96.1:12559
+Directory test is created by 172.26.96.1:12559
+4.txt is removed by 172.26.96.1:12559
+172.26.96.1:12560 client is uploading file: 4.txt
+file size: 17
+File 4.txt is uploaded by 172.26.96.1:12560
+Connection with 172.26.96.1:12559 is closed
+Connection with 172.26.96.1:12560 is closed
+Connection with 172.26.96.1:12570 is closed
+Connection with 172.26.96.1:12561 is closed
+Connection with 127.0.0.1:50561 is established
+Connection with 127.0.0.1:50562 is established
+127.0.0.1:50562 client is uploading file: localhost_test.txt
+file size: 13
+File localhost_test.txt is uploaded by 127.0.0.1:50562
